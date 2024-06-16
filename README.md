@@ -19,17 +19,7 @@
 <p align="center">
  <img  src="https://github-readme-streak-stats.herokuapp.com?user=bastndev&theme=tokyonight_duo&hide_border=true"
 </p>
-
- <-------------------------------------------------------------------------------------------------------------------------->
-<p align="center">
-    <br/><br/><a href="https://www.linkedin.com/in/👽" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A0A0B?logo=linkedin&style=for-the-badge&logoColor=white" alt="LinkedIn Badge" /></a>
-    <a href="https://www.instagram.com/👽/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-0A0A0B?logo=instagram&style=for-the-badge&logoColor=white" alt="Instagram Badge" /></a>
-    <a href="https://twitter.com/👽" target="_blank"><img src="https://img.shields.io/badge/-Twitter-0A0A0B?logo=twitter&style=for-the-badge&logoColor=white" alt="Twitter Badge" /></a>
-</p>
-<p align="center"><a href="https://t.me/👽" target="_blank"><img src="https://img.shields.io/badge/-Telegram-0A0A0B?logo=telegram&style=for-the-badge&logoColor=white" alt="Telegram Badge" /></a>
-    <a href="mailto:👽@protonmail.com" target="_blank"><img src="https://img.shields.io/badge/-ProtonMail-0A0A0B?logo=protonmail&style=for-the-badge&logoColor=white" alt="ProtonMail Badge" /></a>
-<p/>
-
+ 
   <-------------------------------------------------------------------------------------------------------------------------->
 
 ![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
